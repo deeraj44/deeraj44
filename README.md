@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Deeraj Nair
 - 👀 I’m interested in Data Analysis and Data Scraping
-- 🌱 I’m currently studying B.Tech in Computer Science from SRM University
+- 🌱 Completed my undergrad in B.Tech Computer Science from SRM Institute of Science and Technology - Chennai
+- 💻 Currently studying MS in Data Science from Indiana University - Bloomington
 - 📫 email:deerajnair44@gmail.com
 
 <!---
