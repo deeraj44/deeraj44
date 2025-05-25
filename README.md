@@ -60,7 +60,7 @@ Here are some of the projects I've worked on recently, covering supply chain, fi
 
 ## 📬 Let's Connect!
 
-- 📧 Email: deeraj.yourname@example.com
+- 📧 Email: deerajnair44@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/deeraj-nair-1a7403214/)
 - 🧠 [Portfolio Website](https://deerajnair.vercel.app/)
 
