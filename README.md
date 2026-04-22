@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently work as a Data Analyst at Heartland Community Network<br>I'm also looking for full time Data and Business Analyst roles (open to relocation)<br>I'm Adept at building machine learning models, automating workflows, and designing intuitive dashboards to support business decisions<br>Experienced in SQL, Python, Excel, Power BI and Tableau
+Supply Chain Analyst with 3+ years of experience driving data-backed decisions across demand planning, inventory optimization, and logistics operations.
 
 
 ## 🌐 Socials:
